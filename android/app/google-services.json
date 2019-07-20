@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1734709001",
+    "firebase_url": "https://testing-132f9.firebaseio.com",
+    "project_id": "testing-132f9",
+    "storage_bucket": "testing-132f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1734709001:android:721077ef286dcd67",
+        "android_client_info": {
+          "package_name": "com.nipun.blogger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1734709001-5qbaupgfql2dckrknaaf56b566b0fq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7f0JsykjNje5aQtr6QOrlNEQ6l4h0bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1734709001-5qbaupgfql2dckrknaaf56b566b0fq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
